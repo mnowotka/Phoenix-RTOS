@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="32"
+   name=""
+   committed-date="2005-05-08T21:56:26.879072Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   name="kernel"
+   kind="dir"/>
+<entry
+   committed-rev="7"
+   name="COPYING"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="393a5ca445f6965873eca0259a17f833"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   name="plo"
+   kind="dir"/>
+<entry
+   name="sys"
+   kind="dir"/>
+<entry
+   name="libph"
+   kind="dir"/>
+<entry
+   name="phoenixd"
+   kind="dir"/>
+</wc-entries>

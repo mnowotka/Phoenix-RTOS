@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/libph"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="7"
+   name="dev.c"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="03a5b38b72d5b49f30733063c534d100"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="29"
+   name="sys.c"
+   text-time="2005-02-07T23:15:55.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="8134ff84943a5d26544897ed6fa52daa"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="printf.c"
+   text-time="2005-02-07T23:19:34.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="ef9642877e5b801f19b0bb8637e0a82e"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="29"
+   name="libph.h"
+   text-time="2005-02-07T23:19:31.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="1b851070fec4ac6207db405520973805"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="arch"
+   text-time="2005-05-08T14:18:29.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="7816409d2708b87678c5d157e7b4ad1b"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="Makefile"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="23edd926d8f169d6fea457da2d3d854d"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   name="IA32"
+   kind="dir"/>
+</wc-entries>

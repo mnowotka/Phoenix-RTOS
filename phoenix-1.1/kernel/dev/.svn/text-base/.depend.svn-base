@@ -1,0 +1,44 @@
+drivers.o: drivers.c /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h
+serial.o: serial.c /home/pawel/phoenix-1.1/kernel/hal/current/if.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/interrupts.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/console.h \
+  /home/pawel/phoenix-1.1/kernel/init/errors.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h \
+  /home/pawel/phoenix-1.1/kernel/task/if.h \
+  /home/pawel/phoenix-1.1/kernel/task/scheduler.h \
+  /home/pawel/phoenix-1.1/kernel/task/timesys.h \
+  /home/pawel/phoenix-1.1/kernel/task/exec.h \
+  /home/pawel/phoenix-1.1/kernel/dev/serial.h
+tty.o: tty.c /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/interrupts.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/console.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h \
+  /home/pawel/phoenix-1.1/kernel/vm/kmalloc.h \
+  /home/pawel/phoenix-1.1/kernel/task/timesys.h \
+  /home/pawel/phoenix-1.1/kernel/dev/tty.h

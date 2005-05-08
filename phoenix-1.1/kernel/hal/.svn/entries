@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/hal"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="current"
+   text-time="2005-05-08T14:18:29.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="43a20b0d77dc3c260bcfd12b41b2a634"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-05-08T15:00:46.000000Z"/>
+<entry
+   name="ia32"
+   kind="dir"/>
+</wc-entries>

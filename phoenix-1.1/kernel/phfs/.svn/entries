@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/phfs"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="phfs.c"
+   text-time="2005-02-07T01:45:52.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="97bef171d12e8ae7c70ca44078144125"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="if.h"
+   text-time="2005-02-06T19:40:20.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="7e36e790dd233b08bbbd84917da36e78"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-06T19:23:50.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="347a65515c72a13a38aaaf5401fa298c"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name=".depend"
+   text-time="2005-05-08T15:28:56.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="82e9f8c4cb2dd7206dd25140f6a00dc4"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/dev"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="drivers.c"
+   text-time="2005-02-01T23:24:18.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="101ade49216fe570f98f06bf2111cb0f"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="serial.c"
+   text-time="2005-02-07T02:08:53.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="cad117e30ca6229d574da74aa802e99c"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="tty.c"
+   text-time="2005-02-07T02:04:04.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="8fda4fb9ec69c6298774d0ac57f0b3d4"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="drivers.h"
+   text-time="2005-02-01T22:58:16.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="6b855d07add35fa94f66abdaa397500c"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="serial.h"
+   text-time="2005-02-06T20:54:25.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="b333a3c76af6a5ebff6531c7002efdb9"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="tty.h"
+   text-time="2005-02-01T23:10:31.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="28163311aef8e138ab3c58b564c5ddc2"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-06T17:52:32.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="9cdf8c64e7b628c2c67aa4379ac33aea"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name=".depend"
+   text-time="2005-05-08T15:28:55.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="7b2826950fc3f9b4ad3cd32117b67e01"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

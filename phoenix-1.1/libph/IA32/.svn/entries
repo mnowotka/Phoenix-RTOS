@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="29"
+   name=""
+   committed-date="2005-05-08T14:57:39.909658Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/libph/IA32"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="29"
+   name="locore.h"
+   text-time="2005-02-07T23:13:55.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="60464d02e74b46e2f6bd62361f957ead"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+</wc-entries>

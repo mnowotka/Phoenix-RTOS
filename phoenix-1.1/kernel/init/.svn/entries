@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/init"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="ramdisk.h"
+   text-time="2005-01-06T14:34:41.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="cde42bdb67fce056240cb02fc507d041"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="std.h"
+   text-time="2005-02-06T19:22:39.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="afc6f703b2d599fd854a60af94282089"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="errors.h"
+   text-time="2005-02-06T16:21:41.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="2632ba9ed43e5eba81e01d24711fcc24"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="main.c"
+   text-time="2005-05-08T20:12:47.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="e615d58962bdfcea9699869101a51009"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="ramdisk.c"
+   text-time="2005-02-01T23:11:35.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="7402a30733651b8ecc808c26d97322e2"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="std.c"
+   text-time="2005-02-07T22:05:53.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="4664dccc7b32de9e9246f9d73f0c48a8"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-06T17:47:36.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="8d4ee1a19682924ea4df07fbb5dcfdf3"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name=".depend"
+   text-time="2005-05-08T15:28:55.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="4b41c7c24a15b904d9c9978cf045b44c"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="syscalls.c"
+   text-time="2005-02-07T23:25:33.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="b8b59a143db97598ba996ff0e33eeea4"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

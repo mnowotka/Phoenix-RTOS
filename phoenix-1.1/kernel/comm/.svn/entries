@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/comm"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="signals.c"
+   text-time="2005-02-06T16:32:44.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="c3fab4e66621f4b57ef5ea9afef5f058"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="if.h"
+   text-time="2005-02-06T19:08:57.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="4ed6bd4818bcd7ef6bdf9255d06528b1"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="signals.h"
+   text-time="2005-02-01T23:02:14.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="737439b83879a1ba52372f4fae1e70a8"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="msg.c"
+   text-time="2005-02-07T01:14:09.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="576487a59310fa795f5c6a01f915a337"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="msg.h"
+   text-time="2005-02-06T16:24:38.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="243b5bc0e8235121eb3d4293fb1fd187"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-06T17:57:27.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="2617fdb8ddc8eb58077bdc6771bf74d0"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name=".depend"
+   text-time="2005-05-08T15:28:56.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="e1505ff49e7ca4e0ca42ce58d2de65d9"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

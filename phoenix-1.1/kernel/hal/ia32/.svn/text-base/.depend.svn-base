@@ -1,0 +1,75 @@
+gdtidt.o: gdtidt.c /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h
+pmap.o: pmap.c /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h \
+  /home/pawel/phoenix-1.1/kernel/vm/kmalloc.h
+console.o: console.c /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/interrupts.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/console.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/vga.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h
+interrupts.o: interrupts.c \
+  /home/pawel/phoenix-1.1/kernel/hal/current/if.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/interrupts.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/console.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h \
+  /home/pawel/phoenix-1.1/kernel/task/if.h \
+  /home/pawel/phoenix-1.1/kernel/task/scheduler.h \
+  /home/pawel/phoenix-1.1/kernel/task/timesys.h \
+  /home/pawel/phoenix-1.1/kernel/task/exec.h \
+  /home/pawel/phoenix-1.1/kernel/comm/signals.h
+timedev.o: timedev.c /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/console.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/interrupts.h \
+  /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h
+archcont.o: archcont.c /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h
+db_disasm.o: db_disasm.c /home/pawel/phoenix-1.1/kernel/init/std.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/locore.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/types.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/defs.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/archcont.h \
+  /home/pawel/phoenix-1.1/kernel/hal/current/pmap.h \
+  /home/pawel/phoenix-1.1/kernel/task/task.h \
+  /home/pawel/phoenix-1.1/kernel/vm/vm.h \
+  /home/pawel/phoenix-1.1/kernel/dev/drivers.h \
+  /usr/lib/gcc-lib/i486-linux/3.3.5/include/stdarg.h

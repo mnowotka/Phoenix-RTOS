@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel/vm"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="28"
+   name="vm.c"
+   text-time="2005-02-06T17:09:24.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="cb4e03392f63b359f5d1ec3cef24a2c8"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="kmalloc.c"
+   text-time="2005-02-01T23:15:11.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="f041c7e53339862fe9f373be33762242"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="vm.h"
+   text-time="2005-02-01T22:57:51.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="c931a4436552947e14fc7628139a4f9d"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="kmalloc.h"
+   text-time="2005-02-01T22:58:34.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="998356a1113b0b5a7c3a12ca4dc2a324"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-06T17:49:04.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="066ecc80306c82fd0abe2885009a626a"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name=".depend"
+   text-time="2005-05-08T15:28:55.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="5a3bb50c77a78f05f6260791f6e49fe8"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

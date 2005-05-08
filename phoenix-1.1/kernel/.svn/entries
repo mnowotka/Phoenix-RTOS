@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/kernel"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   name="phfs"
+   kind="dir"/>
+<entry
+   name="task"
+   kind="dir"/>
+<entry
+   name="vm"
+   kind="dir"/>
+<entry
+   name="init"
+   kind="dir"/>
+<entry
+   name="hal"
+   kind="dir"/>
+<entry
+   name="comm"
+   kind="dir"/>
+<entry
+   committed-rev="28"
+   name="Makefile"
+   text-time="2005-02-07T22:11:28.000000Z"
+   committed-date="2005-05-08T14:56:42.638503Z"
+   checksum="76c8cebb6a10b1c8ffd8146b4113c432"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:40.000000Z"/>
+<entry
+   name="dev"
+   kind="dir"/>
+</wc-entries>

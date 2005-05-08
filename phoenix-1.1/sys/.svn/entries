@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="32"
+   name=""
+   committed-date="2005-05-08T21:56:26.879072Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/sys"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="7"
+   name="exc0.c"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="639a935d21cf6f5e7931ac9c1b5f85dd"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   name="sig"
+   kind="file"
+   deleted="true"
+   revision="35"/>
+<entry
+   name="exc13"
+   kind="file"
+   deleted="true"
+   revision="35"/>
+<entry
+   name="exc14"
+   kind="file"
+   deleted="true"
+   revision="35"/>
+<entry
+   name="mkphrd"
+   kind="dir"
+   deleted="true"/>
+<entry
+   name="psh"
+   kind="file"
+   deleted="true"
+   revision="35"/>
+<entry
+   name="exc0"
+   kind="file"
+   deleted="true"
+   revision="35"/>
+<entry
+   committed-rev="7"
+   name="sig.c"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="b6e5960c8fecc266df6075a2b5f4667f"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="29"
+   name="exc13.c"
+   text-time="2005-02-07T23:04:28.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="b340fc36fc2da23f016375d47dd48ae9"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="exc14.c"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="5dcc1a49f4b7a9fd24901be6ad380e65"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="lex.c"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="e8874d02350ca71a2259980fccca41a4"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="32"
+   name="phoenix"
+   text-time="2005-05-08T14:18:29.000000Z"
+   committed-date="2005-05-08T21:56:26.879072Z"
+   checksum="c26c383875d806f057abc1ef6f338245"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-05-08T22:02:05.000000Z"/>
+<entry
+   committed-rev="29"
+   name="psh.c"
+   text-time="2005-02-10T17:03:14.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="1ce60a8e3b9495c076b1295607f8bacb"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="Makefile"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="08774b5c91283bd764abd9e989da1979"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="lex.h"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="19fc71e581cac3750bc0aef989bd1b70"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+</wc-entries>

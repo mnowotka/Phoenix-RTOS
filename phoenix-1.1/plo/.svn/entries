@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/plo"
+   last-author="pawel"
+   kind="dir"
+   revision="32"/>
+<entry
+   committed-rev="31"
+   name="phfs.c"
+   text-time="2005-01-27T21:41:36.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="d2f5f69513a1d2ab8680c0ce44bff97e"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="low.c"
+   text-time="2005-01-25T22:49:26.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="2a1c8b71bb77ae25b0e9f448cd306720"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="cmd.c"
+   text-time="2005-01-30T23:16:23.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="35d859f4003254892fc7bd595b39e415"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="plostd.c"
+   text-time="2005-01-30T19:15:16.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="5caafe6e268a334952ed9e0c132e0912"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="phfs.h"
+   text-time="2005-01-16T17:59:38.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="09c0c7e41a123fa50b22b1b1d04bb684"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="low.h"
+   text-time="2005-01-25T21:02:12.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="11ea69ee10c444297ca3d6fd996437c3"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="cmd.h"
+   text-time="2005-01-16T17:48:46.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="3443390877d4e179cb46fb91d197878e"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="types.h"
+   text-time="2005-01-16T17:45:34.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="b639dab7f7cf65d7360e14d726aa8b4a"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="_plo.S"
+   text-time="2005-01-25T22:38:33.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="f947c27843f03aea682fcbed709cf0ec"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="config.h"
+   text-time="2005-05-08T20:08:37.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="3e9aee8584d1b4ede2592a49b9d46492"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="plostd.h"
+   text-time="2005-01-30T19:15:24.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="a5813a18bd55c8cbf65d9bd5ac1e2c5d"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="elf.h"
+   text-time="2005-01-16T00:52:40.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="19acf1f42e4e4cf407f95a4114f72ec8"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="serial.c"
+   text-time="2005-01-16T18:08:01.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="c554f342fa18431cc5fd977b18501542"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="timer.c"
+   text-time="2005-01-16T17:39:29.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="025ad6c845d5c8c1acb28e7df1271347"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="_low.S"
+   text-time="2005-01-16T17:43:34.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="aa8d01c3328b085369ec21fdd4bc69a0"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="errors.h"
+   text-time="2005-01-16T18:05:12.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="7d42c1d95d7bfe4e60b506db33857011"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="serial.h"
+   text-time="2005-01-16T18:05:19.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="d570a5a95f05dda2fb1115e362428b41"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="timer.h"
+   text-time="2005-01-16T21:57:21.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="beec1262e672ef2d959eedc013ceed75"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="_lib.S"
+   text-time="2005-01-16T17:44:19.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="0e560a26a2b80f9c8a68a62d4e2e04b3"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="msg.c"
+   text-time="2005-01-16T17:59:56.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="b155aa2a037139c26944668605f0f978"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="plo.c"
+   text-time="2005-01-30T22:08:25.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="1f05b406620b2c35361e142004d9eac7"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="msg.h"
+   text-time="2005-01-16T17:58:59.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="3f74c1ba42a5650ee714c99d773bf701"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="31"
+   name="Makefile"
+   text-time="2005-01-11T23:56:58.000000Z"
+   committed-date="2005-05-08T21:55:47.926078Z"
+   checksum="9995c40d800103ee979bcd7fa7691b19"
+   last-author="pawel"
+   kind="file"/>
+</wc-entries>

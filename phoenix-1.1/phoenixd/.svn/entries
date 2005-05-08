@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2005-05-08T21:55:47.926078Z"
+   url="svn+ssh://ritchie/home/pawel/svnphoenix/phoenix-1.1/phoenixd"
+   last-author="pawel"
+   kind="dir"
+   uuid="6dcb67b4-f7ec-0310-88e1-d64be2feda07"
+   revision="32"/>
+<entry
+   committed-rev="19"
+   name="dispatch.c"
+   text-time="2005-01-23T20:37:23.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="fa61ae0d4f8cf323d03fb8daf95ac54e"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="19"
+   name="phfs.c"
+   text-time="2005-01-23T20:42:21.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="f92d922c116a84f23087be6f4f4e6c87"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="19"
+   name="dispatch.h"
+   text-time="2005-01-23T20:37:12.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="0d9d2057f4b411f4d78fd7517fd469f3"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="19"
+   name="phfs.h"
+   text-time="2005-01-23T20:40:51.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="8c7e8c4455e8de922dc99cc3a6de3fe5"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="types.h"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="f1a9903e63eb4d360ebdff47ff1b7072"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="elf.h"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="e12194474b6ab325d7eb759f1221cfa7"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="29"
+   name="phoenixd.c"
+   text-time="2005-02-05T16:26:41.000000Z"
+   committed-date="2005-05-08T14:57:39.909658Z"
+   checksum="bbdd47394f60f4396502d49920cb5d1e"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="serial.c"
+   text-time="2005-02-01T23:41:35.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="32be323208ba8df3d53cc4fcb018757c"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="19"
+   name="errors.h"
+   text-time="2005-01-23T20:42:04.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="cf27460223d8979979ee6188d801e0b3"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="7"
+   name="serial.h"
+   text-time="2005-01-06T14:34:43.000000Z"
+   committed-date="2005-01-06T14:16:00.428555Z"
+   checksum="dbf8f96c2cded743854118682a2033d7"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="19"
+   name="bsp.c"
+   text-time="2005-01-23T20:34:35.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="effe1f3daeee264b9e72be9fa204e6d1"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="19"
+   name="msg.c"
+   text-time="2005-01-23T20:33:17.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="7b2a87cbea302f4fa9708a884f64da7e"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="19"
+   name="bsp.h"
+   text-time="2005-01-23T20:33:44.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="9425d06e6c79c9e0e7169d47f9bceb05"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+<entry
+   committed-rev="19"
+   name="msg.h"
+   text-time="2005-01-23T20:38:31.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="bf02268b0b2a9744848488fe4a033986"
+   last-author="pawel"
+   kind="file"/>
+<entry
+   committed-rev="19"
+   name="Makefile"
+   text-time="2005-01-20T21:43:21.000000Z"
+   committed-date="2005-01-23T20:39:58.939781Z"
+   checksum="ccf542ba3d1840e57116110b705eef75"
+   last-author="pawel"
+   kind="file"
+   prop-time="2005-01-06T14:34:43.000000Z"/>
+</wc-entries>
